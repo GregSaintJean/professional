@@ -1,5 +1,21 @@
 #title{
-    margin: 250px auto 0 auto;
+    margin: 200px auto 0 auto;
     width: 500px;
     text-align: center;
+}
+
+#title ul{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 50px auto;
+}
+
+#title ul li{
+    margin: 0 auto 20px auto;
+    text-align: center;
+}
+
+#title ul li a{
+    text-decoration: none;
 }
