@@ -13,14 +13,19 @@ body {
     list-style-type: none;
     display: flex;
     padding: 0;
-    margin: 50px auto;
+    margin: 20px auto;
 }
 
 #title ul li{
-    margin: 0 auto 20px auto;
+    margin: 0 auto 0 auto;
     text-align: center;
 }
 
 #title ul li a{
     text-decoration: none;
+}
+
+#title ul li a img{
+    width: 26px;
+    height: 23px;
 }
