@@ -13,6 +13,7 @@ body {
     list-style-type: none;
     display: flex;
     padding: 0;
+    width: 120px;
     margin: 20px auto;
 }
 
@@ -25,7 +26,12 @@ body {
     text-decoration: none;
 }
 
-#title ul li a img{
+#linkedin{
+    width: 26px;
+    height: 23px;
+}
+
+#github{
     width: 26px;
     height: 23px;
 }
